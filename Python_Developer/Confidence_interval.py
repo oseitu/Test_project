@@ -1,3 +1,6 @@
+## A start of git for studies
+
+
 rng = np.random.RandomState(seed=12345)
 idx = np.arange(y_train.shape[0])
 
